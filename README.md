@@ -19,8 +19,7 @@ The user-base consists of community users, community administrators, and super a
 | Carrots🥕 | The protocols form of reward that is also used to interact on the protocol (e.g.stake on proposals, etc.).  For this version, these are simply “points” of that are tracked in a database |
 | Wallet | A digital representation of the users funds (store for carrots) |
 | Staking  | A core interaction performed with Carrots |
-| Protocol Fee | A fee that is deducted from the users Wallet when they interact with the protocol in the form of carrots. The protocol fee goes to the Rabbit-Holes Wallet (the
-Community Wallet) |
+| Protocol Fee | A fee that is deducted from the users Wallet when they interact with the protocol in the form of carrots. The protocol fee goes to the Rabbit-Holes Wallet (the Community Wallet) |
 
 
 ## User Stories
