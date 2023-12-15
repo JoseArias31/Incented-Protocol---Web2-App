@@ -6,6 +6,26 @@ Incented Protocol is a NextJS-based web application that provides a transparent 
 
 The user-base consists of community users, community administrators, and super administrators.  Users will be able to propose, prioritize, contribute, review a proposed task while community administrators will manage their community and associated funds used for incentivizing tasks.  On the other hand, super administrators will manage all communities, members, and distribution of funds to each community.  
 
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+If pulling from github for the first time, you may need to re-install its dependencies.  Run the following:  `npm install`
+
+This app uses Tailwind CSS. If encountering issues, run the following: `npm install -D tailwindcss postcss autoprefixer`
+
+## Deployment
+
+Incented protocol is deployed and hosted using vercel.  
+
+See the following URL:  https://incented-protocol-git-prioritizevalida-b9e591-wookie3s-projects.vercel.app
 
 # Application Architecture Design - Incented Protocol 
 
