@@ -73,5 +73,7 @@ The incented team intends to eventually "dog-food" this web2 version into a full
 - **Incented - Main**
 
 - York Unversity - Students
-- [@JoseArias31](https://github.com/JoseArias31)https://github.com/JoseArias31
+  - [@JoseArias31](https://github.com/JoseArias31)
+  - [@Wookie3](https://github.com/Wookie3)
+  - [@nbacc12](https://github.com/nbacc12)
 
