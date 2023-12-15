@@ -1,8 +1,10 @@
 # Incented-Protocol (Web2-App)
 
+This is a NextJS-based app built in partnership with York University serving as a graduation project.  
+
 ## Purpose
 
-Incented Protocol is a NextJS-based web application that provides a transparent user-friendly platform for communities & DAOs to coordinate and incentivize the completion of tasks.  Community members have the ability to contribute to a task while being rewarded for their efforts.  
+Incented Protocol is a web2 application that provides a transparent user-friendly platform for communities & DAOs to coordinate and incentivize the completion of tasks.  Community members have the ability to contribute to a task while being rewarded for their efforts.  
 
 The user-base consists of community users, community administrators, and super administrators.  Users will be able to propose, prioritize, contribute, review a proposed task while community administrators will manage their community and associated funds used for incentivizing tasks.  On the other hand, super administrators will manage all communities, members, and distribution of funds to each community.  
 
@@ -26,6 +28,12 @@ This app uses Tailwind CSS. If encountering issues, run the following: `npm inst
 Incented protocol is deployed and hosted using [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).  
 
 Check out the app for a full user experience:  https://incented-protocol-git-prioritizevalida-b9e591-wookie3s-projects.vercel.app
+
+## Development Notes
+
+Due to the scope of the project, not all of the original features were achieved.  A user's ability to view & submit proposals, prioritize, contribute, and validate. In addition, users can create & view communities as well as fund their individual accounts.  
+
+The incented team intends to "dog-food" this web2 version into a fully useable web3.0 version.  
 
 # Application Architecture Design
 
