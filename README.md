@@ -27,8 +27,7 @@ Incented protocol is deployed and hosted using [Vercel](https://vercel.com/new?u
 
 Check out the app for a full user experience:  https://incented-protocol-git-prioritizevalida-b9e591-wookie3s-projects.vercel.app
 
-# Application Architecture Design - Incented Protocol 
-
+# Application Architecture Design
 
 ## Key Terms
 
@@ -39,8 +38,10 @@ Check out the app for a full user experience:  https://incented-protocol-git-pri
 | Dams and Sires | Administrators of the Rabbit-Hole |
 | Carrots🥕 | The protocols form of reward that is also used to interact on the protocol (e.g.stake on proposals, etc.).  For this version, these are simply “points” of that are tracked in a database |
 | Wallet | A digital representation of the users funds (store for carrots) |
+| Carrot-Pot | Treasury of a community where rewards come from |
 | Staking  | A core interaction performed with Carrots |
 | Protocol Fee | A fee that is deducted from the users Wallet when they interact with the protocol in the form of carrots. The protocol fee goes to the Rabbit-Holes Wallet (the Community Wallet) |
+| DAO  | Decentralized Autonomous Organization |
 
 
 ## User Stories
