@@ -1,12 +1,13 @@
-# Incented-Protocol---Web2-App
-
-# Application Architecture Design - Incented Protocol
+# Incented-Protocol (Web2-App)
 
 ## Purpose
 
-Incented Protocol is a web application to empower communities and (DAOs) by providing a user-friendly and transparent platform coordinating and incentivizing the completion of tasks.  Community members have the ability to contribute to a task while being rewarded for their efforts.  
+Incented Protocol is a NextJS-based web application that provides a transparent user-friendly platform for communities & DAOs to coordinate and incentivize the completion of tasks.  Community members have the ability to contribute to a task while being rewarded for their efforts.  
 
 The user-base consists of community users, community administrators, and super administrators.  Users will be able to propose, prioritize, contribute, review a proposed task while community administrators will manage their community and associated funds used for incentivizing tasks.  On the other hand, super administrators will manage all communities, members, and distribution of funds to each community.  
+
+
+# Application Architecture Design - Incented Protocol 
 
 
 ## Key Terms
