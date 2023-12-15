@@ -1,6 +1,6 @@
 # Incented-Protocol (Web2-App)
 
-This is a NextJS-based app built in partnership with York University serving as a graduation project.  
+This is a NextJS-based app built in partnership with York University, which serves as a graduation project.  
 
 ## Purpose
 
