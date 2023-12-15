@@ -31,7 +31,13 @@ Check out the app for a full user experience:  https://incented-protocol-git-pri
 
 ## Development Notes
 
-Due to the scope of the project, not all of the original features were achieved.  A user's ability to view & submit proposals, prioritize, contribute, and validate. In addition, users can create & view communities as well as fund their individual accounts.  
+Due to the scope of the project, not all of the original features were achieved.  The following are examples of some of the features that were realized.  
+
+- View & submit proposal
+- A user's ability to view & submit proposals, prioritize, contribute, and validate
+- Creating & viewing communities along with funding them
+- Funding a user's individual account
+- User login & registration
 
 The incented team intends to "dog-food" this web2 version into a fully useable web3.0 version.  
 
