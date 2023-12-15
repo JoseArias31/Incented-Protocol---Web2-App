@@ -25,7 +25,7 @@ This app uses Tailwind CSS. If encountering issues, run the following: `npm inst
 
 Incented protocol is deployed and hosted using vercel.  
 
-See the following URL:  https://incented-protocol-git-prioritizevalida-b9e591-wookie3s-projects.vercel.app
+Check out the app for a full user experience:  https://incented-protocol-git-prioritizevalida-b9e591-wookie3s-projects.vercel.app
 
 # Application Architecture Design - Incented Protocol 
 
