@@ -70,9 +70,9 @@ The incented team intends to eventually "dog-food" this web2 version into a full
 
 ## Authors 
 
-- **Incented - Main**
+- [**Incented**](https://github.com/Incented)
 
-- York Unversity - Students
+- York University - Students
   - [@JoseArias31](https://github.com/JoseArias31)
   - [@Wookie3](https://github.com/Wookie3)
   - [@nbacc12](https://github.com/nbacc12)
