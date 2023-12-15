@@ -27,7 +27,7 @@ This app uses Tailwind CSS. If encountering issues, run the following: `npm inst
 
 Incented protocol is deployed and hosted using [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).  
 
-Check out the app for a full user experience:  https://incented-protocol-git-prioritizevalida-b9e591-wookie3s-projects.vercel.app
+**Check out the Demo:**  https://incented-protocol-git-prioritizevalida-b9e591-wookie3s-projects.vercel.app
 
 ## Development Notes
 
@@ -39,9 +39,7 @@ Due to the scope of the project, not all of the original features were achieved.
 - Funding a user's individual account
 - User login & registration
 
-The incented team intends to "dog-food" this web2 version into a fully useable web3.0 version.  
-
-# Application Architecture Design
+The incented team intends to eventually "dog-food" this web2 version into a fully functioning web3.0 version.  
 
 ## Key Terms
 
@@ -57,38 +55,23 @@ The incented team intends to "dog-food" this web2 version into a fully useable w
 | Protocol Fee | A fee that is deducted from the users Wallet when they interact with the protocol in the form of carrots. The protocol fee goes to the Rabbit-Holes Wallet (the Community Wallet) |
 | DAO  | Decentralized Autonomous Organization |
 
+## Technology Stack
 
-## User Stories
+### Front-End
+- React JS with Next JS Framework
+- CSS Tailwind
+- Shadcn UI
 
-### ***Users***
+### Back-End
+- _Restful API:_  Next JS using App Router features
+- _Database:_  PostgreSQL deployed using Supabase
+- _Hosting:_  Vercel
+- _Runtime Environment:_  Node JS
 
-*EPIC:*  A user (Rabbit) wants to contribute to a community and be compensated (Rabbit Hole).
+## Authors 
 
-- As a user I want to define the title, description, time estimation, validation period and expiration date for a contribution so that the proposed task is completed.
-- As a user I want to be able to view all the tasks that are available in my community so that I can contribute and be rewarded.
-- As a user, I want to be able to propose tasks, so I can suggest projects that align with our app’s goal.
-- As a user, I want to submit a task so that I along with others can work on it.
-- As a user, I want to claim a task so that I can contribute to it .
-- As a user, I want to submit a contribution so that I can provide a solution to a proposed task
-- As a user, I want to review a contribution so that I can provide a stake for or against the contribution. 
-- As a user, I want to be rewarded for a task proposal, ensuring that contributors are fairly compensated for their contributions.
-- As a user I want to be able to see my wallet balance so that I can make contributions to my community.
+- **Incented - Main**
 
-### ***Community Administrator (Dams & Sires)***
-
-*EPIC:* A community administrator wants to manage a community and ensure there is no mal intent.
-
-- As an admin, I want to manage communities so that I can provision and configure the protocol, adjust requirements (timeframes/rewards), set/adjust prioritizer reward.
-- As an admin, I want to maintain the platform, ensuring that the App remains secure and accessible to the community.
-- As an admin, I want to have veto power over my community for tasks with malicious intent. 
-- As an admin, I want to request a specific amount of carrots from the incented team so that I can sufficiently fund the rewards for a proposal in the community.  
-
-### ***Super Administrator (Incented Team)***
-
-*EPIC:* A super admin wants to manage individual communities (Rabbit Holes) and distribute funds to them (carrot pot).
-
-- As a super admin, I want to manage individual communities & members so that I can control who has access and assign community admins.
-- As a super admin, I want to be able to view a list of all task proposals and their statuses, allowing others to see projects or contributions.
-- As a super admin, I want to distribute carrots to community admins so that I can enable those admins to sufficiently fund their proposals. 
-- As a super admin, I want to review and respond to user feedback, and inquiries to maintain a positive user experience
+- York Unversity - Students
+- [@JoseArias31](https://github.com/JoseArias31)https://github.com/JoseArias31
 
